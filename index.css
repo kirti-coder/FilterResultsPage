@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.elogo{
+    color: rgb(206,5,5);
+    background-color: white;
+    width: 40px;
+    height :40px;
+    border-radius: 50%;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.Heading{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    font-weight: bolder;
+    color: rgb(25,47,96);
+}
+h2 {
+    font-size: 2.25rem;
+}
+
+.left-container{
+    box-shadow: 1px 10px 10px lightgrey;
+    width: 255px;
+    margin-left: 32px;
+    margin-top: 10px;
+    float: left;
+    padding-left: 35px;
+    padding-top: 12px;
+    font-size: 13px;
+    line-height: 2;
+}
+.filter, .sort-sec-heading{
+    font-weight: bold;
+}
+.OPTION, .LABEL, .RADIO{
+    color: rgb(148,157,177)
+}
+.location-sec{
+    padding-top: 5px;
+}
+.cuisine-sec, .cost-sec, .sort-sec{
+    padding-top: 9px;
+}
+.sort-sec{
+    padding-bottom: 11px;
+}
+.sort-sec-heading, .cost-sec-heading, .cuisine-sec-heading {
+    margin-bottom: 2px;
+    margin-top: 6px;
+    color: rgb(25,47,96);
+}
+img{
+    padding: 9%;
+    height: 200px;
+    width: 200px;
+    border-radius: 49px;
+}
+.image{
+    width: 20%;
+    float: left; 
+    height: 142px;
+    padding-top: 17px;
+    padding-left: 28px;
+}
+
+.restr-name{
+    line-height: 1.2;
+    margin-bottom: 0.3rem;
+}
+.text-below-restr-name{
+    margin-bottom: 0.2rem;
+    font-size: 13px;
+}
+.restr-address{
+    font-size: 14px;
+}
+  .heading {
+    height: 43px;
+    font-family: Poppins;
+    font-size: 26px;
+    color: #192f60;
+}
+
+.subheading {
+    height: 25px;
+    font-size: 18px;
+    color: #192f60 !important;
+}
+.result-card-body{
+    padding-top: 41px;
+}
+.card{
+    border-radius: 0%;
+    box-shadow: 0px 3px 3px 0px #dee2e6;
+    margin-bottom: 10px;
+    border-color: #fff;
+}
+
+.card-text{
+    color: rgb(148,157,177);
+    font-size: 16px;
+}
+
+
+.cuisinesNcost{
+    padding: 2%;
+}
+.pagination{
+    color: rgb(148,157,177)
+}
+.page-item a{
+    color: rgb(148,157,177);
+}
+.page-link{
+    padding: 0.375rem 1.75rem;
+    border: 1px solid #959698;
+}
+
+
